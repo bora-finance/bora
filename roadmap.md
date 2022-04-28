@@ -1,6 +1,6 @@
-# Roadmap for the Bora Students Protocal
+# Roadmap for the Bora Student Protocal
 
-This document outlines several major versions for the specifications and implementation of the Bora Students Protocal. The versions are aligned with the major strategic priorities of the project over time and expected hard-fork combinator events in Cardano that will make certain new approaches possible.
+This document outlines several major versions for the specifications and implementation of the Bora Student Protocal. The versions are aligned with the major strategic priorities of the project over time and expected hard-fork combinator events in Cardano that will make certain new approaches possible.
 
 ## 0.1 Minimal product (end to end onchain)
 

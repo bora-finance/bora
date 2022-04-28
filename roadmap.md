@@ -35,9 +35,7 @@ The Loans will be manually issued by the BORA team and decisions on who the loan
 ## 1.0 Launch product 
 
 **Estimated delivery: TBC**
-**Subject to Cardano hardfork combinator delays.**
 
-This version makes use of reference inputs and other capabilities that will introduced alongside them in a Cardano hardfork combinator event that is expected towards July/August. 
 
 ### Staking Upgrades
 

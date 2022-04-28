@@ -1,15 +1,15 @@
-### Minting Policies:
+# Minting Policies:
 
-# vBORA
+### vBORA
 
-# sBORA
+### sBORA
 
 ---------------------------
-### Validators
+# Validators
 
-# Staking 
+### Staking 
 
-# Funding 
+### Funding 
 
-# Voting 
+### Voting 
 

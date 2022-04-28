@@ -1,1 +1,1 @@
-# Bora Smart Contracts
+# Bora Student Protocal

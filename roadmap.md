@@ -8,17 +8,17 @@ This document outlines several major versions for the specifications and impleme
 
 ### Staking (vBORA)
 
-This version is intended as a starting point for the incremental evolution of the product. The goal is to create a minimal implementation that can be tested end-to-end. This version will not include front-end or centralized back-end components, but it will include smart contracts for a staking system where holders of BORA can earn vBORA. As well as test suites that cover the essential properties of that staking system.
+This version is intended as a starting point for the incremental evolution of the product. The goal is to create a minimal implementation that can be tested end-to-end. This version will not include front-end or centralized back-end components, but it will include smart contracts for a staking system where holders of BORA can earn vBORA. As well as test suites that cover the essential properties of the staking system.
 
 ## 0.2 Minimal viable product 
 
 **Estimated delivery: TBC**
 **Subject to Cardano Transaction Library delays.**
 
-### Application (sBORA)
+### Loan Application (sBORA)
 
 This version is intended to be a MVP where a small test batch of students can apply for loans, advise on proposals and earn sBORA. It will include 
-smart contracts for recieving sBORA proportional to the individuals engagement level of the protocal as well as for locking sBORA uppon the application of a loan. As well as test suites that cover the essential properties of that application system.
+smart contracts for recieving sBORA proportional to the individuals engagement level of the protocal as well as for locking sBORA uppon the application of a loan. It will also innclude test suites that cover the essential properties of the loan application system.
 
 ### Identity (sBORA)
 
@@ -35,7 +35,6 @@ The Loans will be manually issued by the BORA team and decisions on who the loan
 ## 1.0 Launch product 
 
 **Estimated delivery: TBC**
-
 
 ### Staking Upgrades
 

@@ -2,39 +2,46 @@
 
 This document outlines several major versions for the specifications and implementation of the Bora Student Protocal. The versions are aligned with the major strategic priorities of the project over time and expected hard-fork combinator events in Cardano that will make certain new approaches possible.
 
-## 0.1 Minimal product (end to end onchain)
+## 0.1 Minimal product (end to end onchain) And Staking functionality
 
 **Estimated delivery: TBC**
 
-This version is intended as a starting point for the incremental evolution of the product. The goal is to create a minimal implementation that can be tested end-to-end. This version will not include front-end or centralized back-end components, but it will include smart contracts for a staking system and test suites that cover the essential properties of the system.
+### Staking (vBORA)
 
-### Staking 
+This version is intended as a starting point for the incremental evolution of the product. The goal is to create a minimal implementation that can be tested end-to-end. This version will not include front-end or centralized back-end components, but it will include smart contracts for a staking system where holders of BORA can earn vBORA. As well as test suites that cover the essential properties of that staking system.
 
 ## 0.2 Minimal viable product 
 
 **Estimated delivery: TBC**
 **Subject to Cardano Transaction Library delays.**
 
-This version is intended to be:
+### Application (sBORA)
 
-### Staking Upgrades
+This version is intended to be a MVP where a small test batch of students can apply for loans, advise on proposals and earn sBORA. It will include 
+smart contracts for recieving sBORA proportional to the individuals engagement level of the protocal as well as for locking sBORA uppon the application of a loan. As well as test suites that cover the essential properties of that application system.
 
-New features:
+### Identity (sBORA)
 
-### Voting
+KYCs will have to be completed but DIDs will not be onchain and all information will be held by the BORA team. sBORA will be air dropped manually  upon KYC completion
+
+### Staking Upgrades (vBORA)
+
+New features: The creation of a Stable Coin staking pool dependent on the ecosystem and wether or not a Cardano native stable coin is available.
 
 ### Funding
+
+The Loans will be manually issued by the BORA team and decisions on who the loans will go to will be made in a Centralised manner.
 
 ## 1.0 Launch product 
 
 **Estimated delivery: TBC**
 **Subject to Cardano hardfork combinator delays.**
 
-This version makes use of reference inputs and other capabilities that will introduced alongside them in a Cardano hardfork combinator event that expected is expected towards July/August. 
+This version makes use of reference inputs and other capabilities that will introduced alongside them in a Cardano hardfork combinator event that is expected towards July/August. 
 
 ### Staking Upgrades
 
-### Voting Upgrades
+### Voting (vBORA)
 
 ### Funding Uprades
 

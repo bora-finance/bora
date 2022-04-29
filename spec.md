@@ -1,5 +1,8 @@
 # Minting Policies:
 
+### BORA
+#### - Locked. 1 000 000 000
+
 ### vBORA
 #### - vBORA minted through staking
 

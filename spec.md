@@ -5,6 +5,7 @@
 
 ### vBORA
 #### - vBORA minted through staking
+#### - Can it be burnt?
 
 ### sBORA
 #### - sBORA minted through KYC completion, Protocal engagement (CA)

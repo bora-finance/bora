@@ -43,11 +43,9 @@ The Loans will be manually issued by the BORA team and decisions on who the loan
 This Version Is intended to be a full end to end product that consists of a smart contract suite covering staking, voting and funding onchain. With test suites that cover all of the above. 
 Audit process and auditor will be decided closer to the time.
 
-### Staking Upgrades
+### Identity Upgrades (sBORA)
 
-### Voting (vBORA)
-
-### Funding Uprades
+A minimal DID will be created with the succesful completion of a KYC and sBORA automatically airdropped however this is dependant on many factros including the state of ATALA Prism as well as strategic partnerships will Identity platforms such as IAMX.
 
 ## 2.0+ Post-launch upgrades / ideas
 

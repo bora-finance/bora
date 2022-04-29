@@ -4,21 +4,25 @@ This document outlines several major versions for the specifications and impleme
 
 ## 0.1 Minimal product (end to end onchain) And Staking functionality
 
-**Estimated delivery: TBC**
+**Estimated delivery: End of Q3 2022**
 
 ### Staking (vBORA)
 
 This version is intended as a starting point for the incremental evolution of the product. The goal is to create a minimal implementation that can be tested end-to-end. This version will not include front-end or centralized back-end components, but it will include smart contracts for a staking system where holders of BORA can earn vBORA. As well as test suites that cover the essential properties of the staking system.
 
+Smart Contracts will be written and tested in [Plutarch](https://github.com/Plutonomicon/plutarch)
+
 ## 0.2 Minimal viable product 
 
-**Estimated delivery: TBC**
+**Estimated delivery: End of Q4 2022**
 **Subject to Cardano Transaction Library delays.**
 
 ### Loan Application (sBORA)
 
 This version is intended to be a MVP where a small test batch of students can apply for loans, advise on proposals and earn sBORA. It will include 
-smart contracts for recieving sBORA proportional to the individuals engagement level of the protocal as well as for locking sBORA uppon the application of a loan. It will also innclude test suites that cover the essential properties of the loan application system.
+smart contracts for recieving sBORA proportional to the individuals engagement level of the protocal as well as for locking sBORA uppon the application of a loan. It will also include test suites that cover the essential properties of the loan application system.
+
+All offchain contracts will be written in purescript utilising the [Cardano Transaction Library](https://github.com/Plutonomicon/cardano-transaction-lib)
 
 ### Identity (sBORA)
 
@@ -34,7 +38,10 @@ The Loans will be manually issued by the BORA team and decisions on who the loan
 
 ## 1.0 Launch product 
 
-**Estimated delivery: TBC**
+**Estimated delivery: Q1/Q2 2023**
+
+This Version Is intended to be a full end to end product that consists of a smart contract suite covering staking, voting and funding onchain. With test suites that cover all of the above. 
+Audit process and auditor will be decided closer to the time.
 
 ### Staking Upgrades
 

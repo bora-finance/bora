@@ -7,9 +7,13 @@
 #### - vBORA minted through staking
 #### - Can it be burnt?
 
+Parameterised by the staking validator. Can only be minted/burnt through a transaction from said validator
+
 ### sBORA
 #### - sBORA minted through KYC completion, Protocal engagement (CA)
 #### - sBORA burnt through loan defaults
+
+Parameterised by the Funding validator. Can only be minted/burnt through a transaction from said validator
 
 ---------------------------
 # Validators
@@ -24,3 +28,4 @@
 ### Voting 
 #### - Vote weight dependent on amount of vBORA held
 
+do we have funding rounds or is it continuous?

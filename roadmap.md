@@ -40,7 +40,7 @@ The Loans will be manually issued by the BORA team and decisions on who the loan
 
 **Estimated delivery: Q1/Q2 2023**
 
-This Version Is intended to be a full end to end product that consists of a smart contract suite covering staking, voting and funding onchain. With test suites that cover all of the above. 
+This Version Is intended to be a full end to end product that consists of a smart contract suite covering staking, voting and funding onchain. With test suites that cover all of the above. With this release loan payments will be issued automatically.
 Audit process and auditor will be decided closer to the time.
 
 ### Identity Upgrades (sBORA)

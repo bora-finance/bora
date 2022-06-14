@@ -45,7 +45,7 @@ Audit process and auditor will be decided closer to the time.
 
 ### Identity Upgrades (sBORA)
 
-A minimal DID will be created with the succesful completion of a KYC and sBORA automatically airdropped however this is dependant on many factros including the state of ATALA Prism as well as strategic partnerships will Identity platforms such as IAMX.
+A minimal DID will be created with the succesful completion of a KYC and sBORA automatically airdropped however this is dependant on many factros including the state of ATALA Prism as well as strategic partnerships.
 
 ## 2.0+ Post-launch upgrades / ideas
 

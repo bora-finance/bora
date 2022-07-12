@@ -51,11 +51,4 @@ requires_nix_shell:
 	@ [ "$(IN_NIX_SHELL)" ] || echo "The $(MAKECMDGOALS) target must be run from inside a nix shell"
 	@ [ "$(IN_NIX_SHELL)" ] || (echo "    run 'nix develop' first" && false)
 
-################################################################################
-# Utils
-
-build_path = dist-newstyle/build/x86_64-linux/ghc-8.10.4.20210212/vulcan-smart-contracts-0.1
-clear_build:
-	@[ ! -e $(build_path) ] || rm -rf $(build_path)
-
 

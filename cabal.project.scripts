@@ -1,0 +1,8 @@
+package plutarch
+  flags: +development
+
+packages: 
+  ./bora-scripts
+
+tests: true
+test-show-details: direct

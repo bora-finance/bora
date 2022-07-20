@@ -15,6 +15,10 @@ Parameterised by the staking validator. Can only be minted/burnt through a trans
 
 Parameterised by the Funding validator. Can only be minted/burnt through a transaction from said validator
 
+### KYC/ DID NFT 
+
+issued to pk after completion of KYC. Locked to wallet with the pubkeyHash in the tokenName. Must be present in any transaction from that wallet. 
+
 ---------------------------
 # Validators
 
